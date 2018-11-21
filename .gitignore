@@ -2,3 +2,8 @@
 *.pyc
 build
 dist
+cooperhewitt_swatchbook.egg-info/dependency_links.txt
+cooperhewitt_swatchbook.egg-info/PKG-INFO
+cooperhewitt_swatchbook.egg-info/requires.txt
+cooperhewitt_swatchbook.egg-info/SOURCES.txt
+cooperhewitt_swatchbook.egg-info/top_level.txt
