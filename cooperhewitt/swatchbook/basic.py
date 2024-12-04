@@ -1,7 +1,7 @@
-import palette
+from .palette import palette
 
 # Subset of css4
-class palette(palette.palette):
+class palette(palette):
 
     def __init__(self):
 
